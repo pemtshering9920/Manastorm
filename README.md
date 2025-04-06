@@ -1,5 +1,5 @@
 # Manastorm
-#### Manastorm(Renamed) - ScaledDown Version of XXXXX with Most Capabilities removed. Engineered by @KnottyEngineer aka RastaMouse
+#### Manastorm(Renamed)v1 - ScaledDown with Most Capabilities removed / added basic implementation only. Engineered by @KnottyEngineer aka RastaMouse.
 
 #### Important Disclaimer:
 
