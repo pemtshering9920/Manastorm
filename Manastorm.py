@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-BLACKSTORM v8.1 - Self-Contained Cyber Warfare Platform
-(No external dependencies - Pure Python - 1,250+ lines)
-"""
-
 import os
 import sys
 import time
@@ -24,7 +19,7 @@ from concurrent.futures import ThreadPoolExecutor
 from multiprocessing import cpu_count
 
 # ======================
-# CORE UTILITIES (300 lines)
+# CORE UTILITIES
 # ======================
 
 class CryptoEngine:
@@ -104,7 +99,7 @@ class UserAgentGenerator:
                    f"{browser['name']}/{random.choice(browser['versions'])} Safari/537.36")
 
 # ======================
-# TARGET INTELLIGENCE (250 lines)
+# TARGET INTELLIGENCE
 # ======================
 
 class TargetAnalyzer:
@@ -176,7 +171,7 @@ class TargetAnalyzer:
             self.cdn = "Detection failed"
 
 # ======================
-# ATTACK MODULES (400 lines)
+# ATTACK MODULES
 # ======================
 
 class Layer3Attacks:
@@ -323,7 +318,7 @@ class Layer7Attacks:
             time.sleep(15)
 
 # ======================
-# COMMAND & CONTROL (200 lines)
+# COMMAND & CONTROL
 # ======================
 
 class CommandCenter:
@@ -378,7 +373,7 @@ class CommandCenter:
                 attack['thread'].join(timeout=5)
 
 # ======================
-# MAIN EXECUTION (100 lines)
+# MAIN EXECUTION
 # ======================
 
 def print_banner():
@@ -390,12 +385,12 @@ def print_banner():
  | |__| | |____| |\  |  ____) |  | |   _| || |____ _| |_ 
   \____/|______|_| \_| |_____/   |_|  |_____\_____|_____|
     """)
-    print("SELF-CONTAINED CYBER OPERATIONS PLATFORM")
-    print("----------------------------------------")
+    print("SELF-CONTAINED OPERATIONS TOOL PLATFORM DEVELOPED BY RASTAMOUSE")
+    print("----------BY RASTAMOUSE aka KNOTTYENGINEER----------")
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python3 blackstorm.py <target> [duration=300]")
+        print("Usage: python3 Manastorm.py <target> [duration=300]")
         sys.exit(1)
     
     target = sys.argv[1]
