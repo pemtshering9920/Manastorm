@@ -1,9 +1,9 @@
 # Manastorm
-#### Manastorm(Renamed) - ScaledDown Version of certain Tool with Most Capabilities Removed. Engineered by @KnottyEngineer aka RastaMouse
+#### Manastorm(Renamed) - ScaledDown Version of XXXXX with Most Capabilities removed. Engineered by @KnottyEngineer aka RastaMouse
 
 #### Important Disclaimer:
 
-Manastorm is a DDoS stress testing tool created exclusively for internal web penetration testing within controlled environments. This tool(scaled down) is developed to simulate Layer 3 (network layer) and Layer 7 (application layer) attack vectors to assess the resilience of web applications and networks, as part of my Cybersecurity Research. The primary intent of Manastorm is for ethical hacking and stress-testing in controlled environments. By sharing the tool on GitHub, I aim to provide researchers, developers, and cybersecurity enthusiasts with a resource to understand network behavior, security vulnerabilities, and stress testing in a safe and legal manner.  Many cybersecurity tools are released for research purposes to study attack vectors, response times, and system resilience. Manastorm would help users learn how DDoS attacks work, the mitigation strategies that can be employed, and how to better defend systems.
+Manastorm is a DDoS stress testing tool created exclusively for internal web penetration testing within controlled environments. This tool is created to simulate Layer 3 (network layer) and Layer 7 (application layer) attack vectors to assess the resilience of web applications and networks, as part of my Cybersecurity Research. The primary intent of Manastorm is for ethical hacking and stress-testing in controlled environments. By sharing the tool on GitHub, I aim to provide researchers, developers, and cybersecurity enthusiasts with a resource to understand network behavior, security vulnerabilities, and stress testing in a safe and legal manner.  Many cybersecurity tools are released for research purposes to study attack vectors, response times, and system resilience. Manastorm would help users learn how DDoS attacks work, the mitigation strategies that can be employed, and how to better defend systems.
 
 #### By using Manastorm, you acknowledge and agree to the following:
 
