@@ -1,5 +1,5 @@
 # Manastorm
-#### Manastorm(Renamed)v1 - ScaledDown with Most Capabilities removed / added basic implementation only. Engineered by @KnottyEngineer aka RastaMouse.
+#### Manastorm V1.0 (Scaled Down to Basic Implementation) - Engineered by @KnottyEngineer aka RastaMouse.
 
 #### Important Disclaimer:
 
